@@ -1,0 +1,78 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Kozochka:#:18:~:-175:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Keluashi🇷🇺, TbIKBa🇷🇺 🇺🇦:??:0:10000:-820:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zardex🇩🇪 , Toxicbavarian🇩🇪 :??:0:10000:-850:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:The EU Squad:??:0:10000:-900:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:MAP WAS MADE BY :??:0:10000:-1002:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:DimDr_02, PappySeal:#:11:128:-132:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Apotik's Bamboo Farm:#B:-87:128:-77:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ler Лер:#:-126:128:-54:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mr_Error:#:-97:128:-5:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Syrnikov:#:-50:128:-35:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Iron #2:I2:57:128:7:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kaliakra:#:171:116:23:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tz055_:#:253:~:18:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:DarkKook:#:214:~:225:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Railkow:#:239:128:199:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Anfiguli , Candy_Chris:#:215:128:105:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:ZachemNujenNik:#:209:128:70:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:GORGOROD FARM:GG:135:128:81:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:132xv:#:97:128:152:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sans the Skeleton Farm:SS:84:128:128:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:skri1mmo:#:-13:128:176:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Vidlex:#:60:110:90:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:1_Cruel_1 Wind_Alien:#:42:~:108:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:KerPog:#:24:128:150:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pushinkas:#:-10:128:164:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mekosko:#:-109:128:150:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Iamfly's Exp Farm:#F:-89:101:88:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:MurgDis:#:-110:~:5:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:West:W:-5000:1900:0:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:East:E:5000:1900:0:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:South:S:0:1900:5000:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:NORTH:N:0:1900:-5000:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:NDA Team - No entry:#:-205:128:8:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gold Farm - Is still building?:Pg:-202:~:106:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zanorio:#:-170:102:-125:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mixa_azaza:#:-169:~:-235:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:FARM CONSTRCUTION:XX:-163:128:-286:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:DimDr02 - NO ENTRY:#:79:128:-206:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:DeStrexes - NO BAD OMEN - :#:-38:~:-235:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Allays <3:As:8:105:-103:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hell Hole (Hole in Bedrock):Hh:6:~:-102:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Drowned Farm - realrelease:Dr:171:128:-187:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:TETRISSSRU - AREA CLOSED:XX:-914:128:-778:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Honey Farm:Hf:145:128:-248:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Honey and Combs:Hc:30:128:-250:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Wind Charge:Wc:27:130:-208:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cobble Stone Farm:Cs:190:128:5:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cherry Blossom Wood:Cw:69:128:-9:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Trident Farm:Tf:-63:128:-199:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gunpowder x2 Players:Gp:-60:128:-140:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Froglight Farm, Квампы:KV:-427:128:-37:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ghast Farm, Гасты:Gh:-1000:128:20:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Black Dye Farm:Bd:135:128:-60:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Autosmeltery Печь:As:-49:128:-10:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Skeleton+Zombie,Скелеты,Зомби:Sz:-191:128:-68:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bones x2 Skele Farm:Bf:-11:128:-122:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Blaze Farm * Exp, Блейз, Опыт:Bz:-195:128:-340:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zombie Exp 3x:Ze:-133:128:100:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Piglin Trade:Pt:-198:128:-9:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Swift Sneak:Sw:158:128:-51:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:EXP * BONES :Eb:0:42:-80:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:CLOSED AREA:⛔:-62:128:111:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Stems, Shrooms, Glow Lichen:Sh:-12:128:-48:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pie Farm:Pi:-12:128:-36:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Key Farm:Ke:-27:128:-42:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Trial Chambers, Испытания:Tr:-111:129:41:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Moss:Ms:-14:128:46:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Matrix #1:Mx:42:128:50:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Iron #1:I1:42:128:10:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Iron Farm , Железо:I3:-133:128:-40:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zombie x2 * Skele x2 :Zs:60:128:-37:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:GREEN AXIS:GX:-29:128:-1:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:RED AXIS:RX:0:115:33:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:BLUE AXIS:BX:0:129:-29:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:YELLOW AXIS:YX:30:115:0:6:false:0:gui.xaero_default:false:0:0:false
