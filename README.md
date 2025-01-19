@@ -1,2 +1,2 @@
 # PPL9-FWW
-PPL9 Farm World Waypoints 
+Здесь собраны координаты вейпоинтов мира Ферм на сервере PPL9
