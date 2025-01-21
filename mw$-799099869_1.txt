@@ -1,6 +1,10 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:Key Farm , Ключи :Kf:-161:128:25:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Wool Farm 2 Шерсть:Wf:-85:128:-185:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Wool Farm Шерсть:Wf:16:128:-148:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Honey Farm,Мед:Hf:145:128:-248:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:Kozochka:#:18:~:-175:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:Keluashi🇷🇺, TbIKBa🇷🇺 🇺🇦:??:0:10000:-820:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:Zardex🇩🇪 , Toxicbavarian🇩🇪 :??:0:10000:-850:0:false:0:gui.xaero_default:false:0:0:false
@@ -34,7 +38,7 @@ waypoint:East:E:5000:1900:0:5:false:0:gui.xaero_default:false:0:0:false
 waypoint:South:S:0:1900:5000:5:false:0:gui.xaero_default:false:0:0:false
 waypoint:NORTH:N:0:1900:-5000:5:false:0:gui.xaero_default:false:0:0:false
 waypoint:NDA Team - No entry:#:-205:128:8:0:false:0:gui.xaero_default:false:0:0:false
-waypoint:Gold Farm - Is still building?:Pg:-202:~:106:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gold Farm:Pg:-202:~:106:2:false:0:gui.xaero_default:false:0:0:false
 waypoint:Zanorio:#:-170:102:-125:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:Mixa_azaza:#:-169:~:-235:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:FARM CONSTRCUTION:XX:-163:128:-286:7:false:0:gui.xaero_default:false:0:0:false
