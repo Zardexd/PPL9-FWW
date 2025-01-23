@@ -1,0 +1,83 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Феома Грязи:Mf:-186:67:-125:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Кактус Ферма :Cf:4:128:-32:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Ключи:Kf:-161:128:25:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Шерсти:Wf:-85:128:-185:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Шерсть:Wf:16:128:-148:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Мед :H:145:128:-248:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kozochka:#:18:~:-175:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Keluashi🇷🇺, TbIKBa🇷🇺 🇺🇦:??:0:10000:-820:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zardex🇩🇪 , Toxicbavarian🇩🇪 :??:0:10000:-850:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:The EU Squad:??:0:10000:-900:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:MAP WAS MADE BY :??:0:10000:-1002:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:DimDr_02, PappySeal:#:11:128:-132:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Apotik's Bamboo Farm:#B:-87:128:-77:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ler Лер:#:-126:128:-54:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mr_Error:#:-97:128:-5:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Syrnikov:#:-50:128:-35:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Железо #2:I2:57:128:7:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Kaliakra:#:171:116:23:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tz055_:#:253:~:18:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:DarkKook:#:214:~:225:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Railkow:#:239:128:199:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Anfiguli , Candy_Chris:#:215:128:105:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:ZachemNujenNik:#:209:128:70:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Фермы ГорГорода:GG:135:128:81:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:132xv:#:97:128:152:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Скелетов Сансов:SS:84:128:128:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:skri1mmo:#:-13:128:176:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Vidlex:#:60:110:90:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:1_Cruel_1 Wind_Alien:#:42:~:108:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:KerPog:#:24:128:150:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pushinkas:#:-10:128:164:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mekosko:#:-109:128:150:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма опыта Iamfly:#F:-89:101:88:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:MurgDis:#:-110:~:5:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Запад:W:-5000:1900:0:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Восток:E:5000:1900:0:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Юг:S:0:1900:5000:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Север:N:0:1900:-5000:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:NDA Team - No entry:#:-205:128:8:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Золото Ферма:Pg:-202:~:106:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zanorio:#:-170:102:-125:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mixa_azaza:#:-169:~:-235:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Стройка Фермы:XX:-163:128:-286:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:DimDr02 - NO ENTRY:#:79:128:-206:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:DeStrexes - NO BAD OMEN - :#:-38:~:-235:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Дыра в бедроке:Hh:6:~:-102:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Утоплеников , Медь:Dr:171:128:-187:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:TETRISSSRU - Закрытая Территория:XX:-914:128:-778:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Меда:Hf:145:128:-248:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Мед и Соты:Hc:30:128:-250:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Заряд Ветра:Wc:27:130:-208:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Булыжник Камень:Cs:190:128:5:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Дерево , Вишня:Cw:69:128:-9:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Трайдентов Тризубцы:Tf:-63:128:-199:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Пороха:Gp:-60:128:-140:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Квампы:KV:-427:128:-37:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Гасты Ферма:Gh:-1000:128:20:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Черный Краситель:Bd:135:128:-60:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Автопечка:As:-49:128:-10:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Скелеты Зомби:Sz:-191:128:-68:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Кости Скелеты x2:Bf:-11:128:-122:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Блейзы Опыт Ферма:Bz:-195:128:-340:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Зомби x3:Ze:-133:128:100:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Пиглин Трейд:Pt:-198:128:-9:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Проворность:Sw:158:128:-51:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Скелеты Кости Опыт:Eb:0:42:-80:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Закрытая Территория:⛔:-62:128:111:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Грибы, Светящийся Мох:Sh:-12:128:-48:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Тыквенные Пирог Еда:Pi:-12:128:-36:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Ключи :Ke:-27:128:-42:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Испытания:Tr:-111:129:41:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Мох:Ms:-14:128:46:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Матрица #1 Жители:Mx:42:128:50:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Железо #1:I1:42:128:10:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Железа:I3:-133:128:-40:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Зомби Скелеты x2 x2 :Zs:60:128:-37:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Зеленая Ветка:GX:-29:128:-1:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Красная Ветка:RX:0:115:33:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Синяя Ветка:BX:0:129:-29:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Желтая Ветка:YX:30:115:0:6:false:0:gui.xaero_default:false:0:0:false
