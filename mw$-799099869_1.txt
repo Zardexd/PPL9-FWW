@@ -59,7 +59,7 @@ waypoint:Ферма Пороха:Gp:-60:128:-140:1:false:0:gui.xaero_default:fal
 waypoint:Квампы:KV:-427:128:-37:2:false:0:gui.xaero_default:false:0:0:false
 waypoint:Гасты Ферма:Gh:-1000:128:20:5:false:0:gui.xaero_default:false:0:0:false
 waypoint:Черный Краситель:Bd:135:128:-60:1:false:0:gui.xaero_default:false:0:0:false
-waypoint:Автопечка:As:-49:128:-10:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Автопечка !!Сломана с 23.01.25!!:As:-49:128:-10:2:false:0:gui.xaero_default:false:0:0:false
 waypoint:Скелеты Зомби:Sz:-191:128:-68:1:false:0:gui.xaero_default:false:0:0:false
 waypoint:Кости Скелеты x2:Bf:-11:128:-122:1:false:0:gui.xaero_default:false:0:0:false
 waypoint:Блейзы Опыт Ферма:Bz:-195:128:-340:1:false:0:gui.xaero_default:false:0:0:false
