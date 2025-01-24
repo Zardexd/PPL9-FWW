@@ -76,7 +76,7 @@ waypoint:Ферма Меда:Hf:145:128:-248:1:false:0:gui.xaero_default:false:0
 waypoint:Ферма Опыта Iamfly:#F:-89:101:88:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:Ферма Пороха:Gp:-60:128:-140:1:false:0:gui.xaero_default:false:0:0:false
 waypoint:Ферма Скелетов Сансов:SS:84:128:128:0:false:0:gui.xaero_default:false:0:0:false
-waypoint:Ферма Трайдентов Тризубцы:Tf:-63:128:-199:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ферма Трайдентов Трезубцы:Tf:-63:128:-199:1:false:0:gui.xaero_default:false:0:0:false
 waypoint:Ферма Утоплеников , Медь:Dr:171:128:-187:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:Ферма Шерсти:Wf:-85:128:-185:1:false:0:gui.xaero_default:false:0:0:false
 waypoint:Ферма Шерсть:Wf:16:128:-148:1:false:0:gui.xaero_default:false:0:0:false
