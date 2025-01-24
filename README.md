@@ -3,9 +3,6 @@
 
 Здесь собраны координаты вейпоинтов мира Ферм на сервере PPL9.
 
-![image](https://github.com/user-attachments/assets/68519a88-3786-4399-8781-be8fc53aae5a)
-![image](https://github.com/user-attachments/assets/3db2089d-2e15-4206-8167-20b60b31abc3)
-
 ## Установка
 1. Установить [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) Mod.
    
@@ -19,3 +16,7 @@
 4. Откройте нужный текстовый файл, в котором появилась ваша тестовая точка, и перенесите содержание файла в свой файл. Сохраните.
    
    ![image](https://github.com/user-attachments/assets/891d5e71-92ad-431d-8b77-6d67e4fefb83)
+
+
+![image](https://github.com/user-attachments/assets/68519a88-3786-4399-8781-be8fc53aae5a)
+![image](https://github.com/user-attachments/assets/3db2089d-2e15-4206-8167-20b60b31abc3)
