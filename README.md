@@ -1,4 +1,6 @@
 # PPL9-FWW
+![image psd](https://github.com/user-attachments/assets/d2e7940b-a994-45db-b12e-842ca2f3f4d6)
+
 Здесь собраны координаты вейпоинтов мира Ферм на сервере PPL9.
 
 ![image](https://github.com/user-attachments/assets/68519a88-3786-4399-8781-be8fc53aae5a)
